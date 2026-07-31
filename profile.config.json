@@ -6,7 +6,7 @@
     "headline": "Breaking things, building better ones",
     "affiliation": "Informatics / Computer Science Student",
     "location": "Bandung, Indonesia",
-    "status": "CS Student & Security Enthusiast",
+    "status": "IT Student & Security Enthusiast",
     "about": [
       "CS student in Bandung living at the intersection of offensive security and practical software development. Most free time goes into CTF challenges — chaining LFI into RCE through PHP filter injection, escalating privileges on Linux boxes, and picking puzzles apart to see how they tick.",
       "When I'm not popping boxes, I'm building things: role-based POS web apps and full-stack projects, while working through the theory that makes it all click — discrete math, graph theory, linear algebra, and statistics."
