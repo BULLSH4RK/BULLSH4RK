@@ -1,69 +1,83 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Jimbo",
+    "username": "BULLSH4RK",
+    "headline": "Breaking things, building better ones",
+    "affiliation": "Informatics / Computer Science Student",
+    "location": "Bandung, Indonesia",
+    "status": "CS Student & Security Enthusiast",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "CS student in Bandung living at the intersection of offensive security and practical software development. Most free time goes into CTF challenges — chaining LFI into RCE through PHP filter injection, escalating privileges on Linux boxes, and picking puzzles apart to see how they tick.",
+      "When I'm not popping boxes, I'm building things: role-based POS web apps and full-stack projects, while working through the theory that makes it all click — discrete math, graph theory, linear algebra, and statistics."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Offensive Security",
+    "direction": "Practical exploitation & tooling",
+    "themes": "Web exploitation / Linux priv-esc / CTF",
+    "narrative": "I approach security through hands-on experimentation: assume nothing, verify everything. I chain web vulnerabilities, escalate privileges on Linux systems, and build tools that turn what I learn into something repeatable and useful."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Web Exploitation",
+      "description": "LFI to RCE chains, PHP filter injection, and practical web attack techniques."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Linux Priv-Esc",
+      "description": "GTFOBins, SUID abuse, systemd enumeration, and privilege escalation paths."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "CTF",
+      "description": "TryHackMe and similar platforms, sharpening offensive skills through structured challenges."
+    },
+    {
+      "name": "Applied Math",
+      "description": "Discrete math, graph theory, linear algebra, and statistics backing real systems."
+    },
+    {
+      "name": "Full-Stack Dev",
+      "description": "Go and role-based web applications, built with security in mind."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Kasir POS",
+      "url": "https://github.com/BULLSH4RK/kasir-app",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Point-of-sale web app with role-based access",
+      "summary": "A Laravel point-of-sale application with role-based access control, products, categories, and transaction management.",
+      "heroLabel": "POS system"
     }
   ],
   "techStack": [
+    "Go",
+    "PHP",
+    "Laravel",
+    "JavaScript",
     "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "Linux",
+    "Kali Linux",
+    "TryHackMe",
+    "WSL2",
+    "Ollama",
+    "MySQL",
+    "Git"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "BULLSH4RK",
+      "url": "https://github.com/BULLSH4RK",
       "logo": "github",
-      "color": "0B1220"
+      "color": "181717"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "aditya-yudha-pratama",
+      "url": "https://linkedin.com/in/aditya-yudha-hari-pratama-906621407",
+      "logo": "linkedin",
+      "color": "0A66C2"
     }
   ],
   "activity": {
@@ -73,5 +87,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Assume nothing. Verify everything."
 }
