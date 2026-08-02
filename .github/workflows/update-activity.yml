@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update:
-    if: github.event.repository.name == github.repository_owner
+    if: github.repository_owner == 'BULLSH4RK'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
