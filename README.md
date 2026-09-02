@@ -50,7 +50,6 @@ I approach security through hands-on experimentation: assume nothing, verify eve
 - Aug 14, 2026: pushed 1 commit to [BULLSH4RK/porto-coba](https://github.com/BULLSH4RK/porto-coba).
 - Aug 3, 2026: pushed 1 commit to [BULLSH4RK/porto-coba](https://github.com/BULLSH4RK/porto-coba).
 - Aug 2, 2026: pushed 1 commit to [BULLSH4RK/porto-coba](https://github.com/BULLSH4RK/porto-coba).
-- Aug 2, 2026: pushed 1 commit to [BULLSH4RK/BULLSH4RK](https://github.com/BULLSH4RK/BULLSH4RK).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
