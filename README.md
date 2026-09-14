@@ -47,7 +47,7 @@ I approach security through hands-on experimentation: assume nothing, verify eve
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Aug 14, 2026: pushed 1 commit to [BULLSH4RK/porto-coba](https://github.com/BULLSH4RK/porto-coba).
+_No recent public activity was found._
 <!-- AUTO:ACTIVITY:END -->
 
 ---
