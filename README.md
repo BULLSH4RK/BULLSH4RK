@@ -47,7 +47,7 @@ I approach security through hands-on experimentation: assume nothing, verify eve
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_No recent public activity was found._
+- Oct 7, 2026: pushed 1 commit to [BULLSH4RK/sismul](https://github.com/BULLSH4RK/sismul).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
